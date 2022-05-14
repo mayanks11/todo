@@ -1,0 +1,1 @@
+To open the website, go inside the server folder, open cmd, enter npm i, and then enter 'npm start' to connect the server and database. For opening react website, go inside client folder, and go inside todo-list and open cmd and write 'npm i', and then write 'npm start' to start the react client.
