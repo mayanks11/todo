@@ -1,0 +1,1 @@
+onchange={e =>{setItemText(e.target.value)}} value = {itemText}
